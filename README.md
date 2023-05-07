@@ -6,4 +6,4 @@ Clique aqui: https://felicio-jessica.github.io/Tabuada/<br/>
 
 A ideia foi criar uma tabuada onde o usuário coloca qualquer numero a tabuada ja realiza a multiplicação e retornar o resultado com os valores.<br/>
 
-📜Funcionalidades: Ao clicar na tabuada o usuário digita o número desejado, da enter e obtem todos os reultados com os valores das multiplicações que a calculadora fez.
+📜Funcionalidades: Ao clicar na tabuada o usuário digita o número desejado, da enter e obtem todos os reultados com os valores das multiplicações que a calculadora da tabuada realiza.
